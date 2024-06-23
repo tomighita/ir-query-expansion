@@ -1,3 +1,5 @@
-# ir-query-expansion
+# Utility of Query Expansion for Semantic Re-ranking Models
+## An empirical analysis on the performance for ad-hoc retrieval
 
-The notebooks from `IR-notebooks` directory are copied from the [in4325-information-retrieval repository](https://github.com/wis-delft/in4325-information-retrieval)
+This repository contains the code used for the CSE3000 Research Project as part of my Computer Science and Engineering 
+Bachelor's Degree, alongside [the final report](Utility_of_QE_for_semantic_re-ranking.pdf).
